@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880721216713",
+    "project_id": "ecoalert-app-patrycja",
+    "storage_bucket": "ecoalert-app-patrycja.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880721216713:android:fef9e612e17da760c6b918",
+        "android_client_info": {
+          "package_name": "com.example.ecoalert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

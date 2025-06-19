@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EcoAlert</string>
+    <string name="login">Zaloguj się</string>
+    <string name="register">Zarejestruj się</string>
+    <string name="email">Email</string>
+    <string name="password">Hasło</string>
+    <string name="google_sign_in">Zaloguj przez Google</string>
+    <string name="add_location">Dodaj lokalizację</string>
+    <string name="save">Zapisz</string>
+    <string name="cancel">Anuluj</string>
+    <string name="locations">Lokalizacje</string>
+    <string name="map">Mapa</string>
+    <string name="settings">Ustawienia</string>
+    <string name="logout">Wyloguj</string>
+    <string name="delete_account">Usuń konto</string>
+    <string name="notifications">Powiadomienia</string>
+    <string name="about_app">O aplikacji</string>
+    <string name="privacy_policy">Polityka prywatności</string>
+    <string name="terms_of_service">Warunki użytkowania</string>
+    <string name="contact_support">Kontakt z pomocą</string>
+    <string name="export_data">Eksportuj dane</string>
+    <string name="refresh">Odśwież</string>
+    <string name="empty_locations">Brak zapisanych lokalizacji</string>
+</resources>

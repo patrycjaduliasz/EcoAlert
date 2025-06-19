@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/locationsFragment">
+
+    <fragment
+        android:id="@+id/locationsFragment"
+        android:name="com.example.ecoalert.ui.theme.fragments.LocationsFragment"
+        android:label="@string/locations">
+        <action
+            android:id="@+id/action_locations_to_map"
+            app:destination="@id/mapFragment" />
+        <action
+            android:id="@+id/action_locations_to_login"
+            app:destination="@id/loginFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="com.example.ecoalert.ui.theme.fragments.MapFragment"
+        android:label="@string/map" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.ecoalert.ui.theme.fragments.SettingsFragment"
+        android:label="@string/settings" />
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.example.ecoalert.ui.theme.fragments.LoginFragment"
+        android:label="@string/login" />
+</navigation>
