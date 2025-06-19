@@ -32,10 +32,7 @@ Aplikacja jest intuicyjna, oparta na nowoczesnym designie, korzysta z API OpenWe
 
 ## Jak zacząć? 🚀
 
-**1. Sklonuj repozytorium:**
-```bash
-git clone https://github.com/patrycjaduliasz/EcoAlert.git
-```
+**1. Pobierz kod.**
 
 **2. Skonfiguruj klucze API:**</br>
 Pobierz `google-services.json` z Firebase.</br>
