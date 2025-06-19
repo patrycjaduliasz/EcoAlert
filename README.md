@@ -53,6 +53,6 @@ Kliknij „Run" (zielony trójkąt).
 
 ---
 
-https://github.com/patrycjaduliasz/EcoAlert/blob/main/ecoalert.mp4
+[ecoalert.mp4](https://github.com/patrycjaduliasz/EcoAlert/blob/main/ecoalert.mp4)
 
 **EcoAlert – dbaj o zdrowie i środowisko! 🌍**
